@@ -1,0 +1,26 @@
+*{
+    margin: 0 px;
+    padding: 0 px;
+    box-sizing: border-box;
+}
+
+.inicio{
+    height: 80vh;
+	background-image: url(../imagen/header.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	}
+
+.inicio1{
+    background-color: cornflowerblue;
+    display:flexbox;
+    width: 80%;
+    height: 80vh ;
+    align-items: center;
+    
+    }    
+  .centrar{
+      display: flex;
+      text-align: center;
+  }
